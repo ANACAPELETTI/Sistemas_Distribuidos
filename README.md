@@ -15,7 +15,7 @@ O exercício consiste em uma instância (ContadorCentral) que é compartilhada p
 ◆━━━━━━◆❃◆━━━━━━◆
 </p>
 
-Para facilitar ainda mais a explicação do exercício, abaixo encontra-se o diagrama de atividades de como o programa funcionava:
+Para facilitar ainda mais a explicação do exercício, abaixo encontra-se o diagrama de sequência de como o programa funcionava:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75649546/200619802-2779e543-cd48-4cc7-9ff5-a5dd783f5c76.png"/>
@@ -31,6 +31,6 @@ Ou seja, a parte do código que faz a atualização da variável numPessoas é u
 
 Deixando de ocorrer os problemas de “atualização perdida” e resolvendo o problema da questão.
 
-🕹️ Código e ferramentas
+## 🕹️ Código e ferramentas
 
  O código foi desenvolvido na linguagem Java, pelo site [Replit](https://replit.com/). Para visualizar o código, [clique aqui](https://github.com/ANACAPELETTI/Sistemas_Distribuidos/blob/main/Main.java).
