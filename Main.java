@@ -1,5 +1,5 @@
 /*
- * Correção do exercício passado pelo professor em sala
+ * Correção do exercício das roletas, passado pelo professor em sala
  */
 
 import java.util.*;
@@ -18,7 +18,6 @@ class Roleta implements Runnable {
   
   public void run() {
 		Thread thread = Thread.currentThread();
-
 		for (int i = 0; i < 60000000; i++) {
 			totPessoas = totPessoas + incr;
         contadorCentral.numPessoas = contadorCentral.numPessoas + incr;
